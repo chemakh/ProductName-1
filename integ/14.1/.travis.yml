@@ -3,6 +3,17 @@
 -dontobfuscate
 -dontskipnonpubliclibraryclasses
 
+
+
+
+
+
+
+
+
+
+
+
 -ignorewarnings
 
 -renamesourcefileattribute SourceFile
